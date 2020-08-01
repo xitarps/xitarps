@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+```
+Bios info in progress...
+```
+
 <!--
 **xitarps/xitarps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

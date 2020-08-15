@@ -1,8 +1,12 @@
-### Hi there 👋
+### Hello there 👋
 
 ```
-Bios info in progress...
+HTML, JS, CSS, Ruby, Rails and much more...
 ```
+Examples:
+ - [Portfolio/currículo](https://xitarpscv.herokuapp.com)
+
+ - [Ruby on Rails Project](https://github.com/xitarps/syscovid)
 
 <!--
 **xitarps/xitarps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

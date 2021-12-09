@@ -1,4 +1,5 @@
 ### Hello there 👋
+I'm a ruby developer and linux user :D
 
 ```
 HTML, JS, CSS, Ruby, Rails and much more...

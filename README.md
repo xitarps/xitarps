@@ -5,9 +5,9 @@ I'm a ruby developer and linux user :D
 HTML, JS, CSS, Ruby, Rails and much more...
 ```
 Examples:
- - [Portfolio/currículo](https://xitarpscv.herokuapp.com)
+ - [Portfolio/currículo]([https://xitarpscv.herokuapp.com](https://xitarpscv.fly.dev))
 
- - [Ruby on Rails Project](https://github.com/xitarps/syscovid)
+ - [Ruby Project](https://github.com/xitarps/logic_exercises_ruby)
 
 <!--
 **xitarps/xitarps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

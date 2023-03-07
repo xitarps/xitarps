@@ -5,7 +5,7 @@ I'm a ruby developer and linux user :D
 HTML, JS, CSS, Ruby, Rails and much more...
 ```
 Examples:
- - [Portfolio/currículo]([https://xitarpscv.herokuapp.com](https://xitarpscv.fly.dev))
+ - [Portfolio/currículo](https://xitarpscv.fly.dev)
 
  - [Ruby Project](https://github.com/xitarps/logic_exercises_ruby)
 
